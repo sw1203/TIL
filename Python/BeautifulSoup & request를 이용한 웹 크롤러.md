@@ -43,7 +43,7 @@ print(html)
 pip install beautifulsoup4
 ```
 
-2. 예제 코드
+2. [예제 코드](https://github.com/sw1203/TIL/tree/master/Python/Code/parser.py)
 ```python
 import requests
 from bs4 import BeautifulSoup
